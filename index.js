@@ -1,1 +1,1 @@
-console.log("hi");
+let x = 2;
