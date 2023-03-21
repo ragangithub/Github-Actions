@@ -1,2 +1,6 @@
-let x = 2;
-let y = 2 + x;
+const x = 2;
+const y = 2 + x;
+function add(x, y) {
+  return x + y;
+}
+add();
